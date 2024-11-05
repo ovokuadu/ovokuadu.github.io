@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovokuadu.github.io/BmQ/sitemap_index.txt
+Sitemap: https://ovokuadu.github.io/JyU/sitemap_index.txt
+Sitemap: https://ovokuadu.github.io/Qge/sitemap_index.txt
+Sitemap: https://ovokuadu.github.io/iWE/sitemap_index.txt
